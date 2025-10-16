@@ -177,3 +177,5 @@ Edge cases to consider:
   - if the `tokenType` is `FUNGIBLE_COMMON`, the `mints` array is ignored.
 
 _For more details on the token fields, please refer to the `ITokenProps` interface and the `TokenUtils` class._
+
+<!-- Auto-update: 2025-10-16T09:01:31.715840 -->
